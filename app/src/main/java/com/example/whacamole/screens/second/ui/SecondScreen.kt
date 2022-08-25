@@ -28,7 +28,7 @@ fun SecondScreen(nav: MutableState<Int>, score: MutableState<Int>) {
             .background(MaterialTheme.colors.background)
             .padding(20.dp)
     ) {
-        Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.End) {
+        Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.Start) {
             Column {
 
                 Timer(currentTime, nav)

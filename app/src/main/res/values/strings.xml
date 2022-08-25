@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WhacAMole</string>
+    <string name="title">Whac-A-Mole</string>
+    <string name="record">Record: </string>
+    <string name="timeLeft">Time left: </string>
+    <string name="score">Score: </string>
+    <string name="yourScore">Your score:</string>
+    <string name="playAgain">Play again</string>
+    <string name="menu">Menu</string>
+    <string name="rule">Hit the mole with the maximum number of hits in 30 seconds.</string>
+</resources>

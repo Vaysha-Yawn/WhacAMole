@@ -24,3 +24,6 @@ Hit the mole with the maximum number of hits in 30 seconds.
 ![Second Screen](https://raw.githubusercontent.com/Vaysha-Yawn/WhacAMole/master/second_screen.png)
 ### Third screen
 ![Third screen](https://raw.githubusercontent.com/Vaysha-Yawn/WhacAMole/master/third_screen.png)
+
+## Installation
+Download and install "app-debug.apk" file on your android device and enjoy.

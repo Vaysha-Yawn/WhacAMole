@@ -29,3 +29,11 @@ suspend fun animateMoleEmerging(
         animateMoleEmerging(yOffsetMoleState, numberHoleWithMole, alphaMoleState)
     }
 }
+
+suspend fun animatePlusOne(
+    plusAlpha: MutableState<Float>,
+) {
+    plusAlpha.value = 1f
+    delay(500L)
+    plusAlpha.value = 0f
+}

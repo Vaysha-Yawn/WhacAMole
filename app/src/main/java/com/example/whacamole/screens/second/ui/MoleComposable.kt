@@ -41,7 +41,7 @@ fun Mole(
     }
 
     // Mole
-    val scope = (LocalContext.current.getActivity() as MainActivity).lifecycleScope
+    val scope = rememberCoroutineScope()
     Image(
         painter = painterResource(id = R.drawable.mole),
         contentDescription = "",
